@@ -75,7 +75,7 @@
 		  <groupId>org.clojure</groupId>
     	  <artifactId>clojure</artifactId>
     	  <!-- <version>1.11.1_patch</version> -->
-    	  <version>1.11.2_patch</version>
+    	  <version>1.11.3</version>
 	  </dependency>
 	  
 	  <!-- dependency 10 -->
