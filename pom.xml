@@ -163,7 +163,7 @@
 		  <groupId>commons-collections</groupId>
     	  <artifactId>commons-collections</artifactId>
     	  <!-- <version>3.2_patch</version> -->
-    	  <version>3.2.2_patch</version>
+    	  <version>3.2.3_patch</version>
 	  </dependency>
 	  
 	  <!-- dependency 21 -->
