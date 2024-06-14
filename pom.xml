@@ -91,7 +91,7 @@
 		  <groupId>org.springframework</groupId>
     	  <artifactId>spring-context</artifactId>
     	  <!-- <version>5.3.12_fix</version> -->
-    	  <version>6.1.7_fix</version>
+    	  <version>6.1.8</version>
 	  </dependency>
 	  
 	  <!-- dependency 12 -->
