@@ -227,7 +227,7 @@
 		  <groupId>com.google.protobuf</groupId>
     	  <artifactId>protobuf-java</artifactId>
     	  <!-- <version>3.21.5_update</version> -->
-    	  <version>4.26.1_update</version>
+    	  <version>4.27.5</version>
 	  </dependency>
 	  
 	  <!-- dependency 29 -->
