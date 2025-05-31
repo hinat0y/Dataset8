@@ -211,7 +211,7 @@
 		  <groupId>commons-beanutils</groupId>
     	  <artifactId>commons-beanutils</artifactId>
     	  <!-- <version>1.8.3_fix</version> -->
-    	  <version>1.9.4_fix</version>
+    	  <version>1.11.0</version>
 	  </dependency>
 	  
 	  <!-- dependency 27 -->
